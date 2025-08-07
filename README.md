@@ -1,0 +1,2 @@
+# github.i
+ilk projem
