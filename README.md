@@ -1,2 +1,1 @@
-# github.i
-ilk projem
+ben daha yeniyim bu yazilim dilinde 
